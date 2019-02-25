@@ -1,4 +1,3 @@
-Menu Dropdown
-=============
+# Menu Dropdown
 
-[Demo ;)](http://demo.nandomoreira.me/menu-dropdown/)
+Demo ~> http://nando-experiments.github.io/menu-dropdown/
